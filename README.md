@@ -70,7 +70,7 @@ This project demonstrates the integration of **LangGraph** with **Cohere's LLMs*
 ## Installation
 
 1. **Clone the Repository**:
-   `git clone https://github.com/ProactiveAIAgents/LangGraph_Chatbot_Agent.git`
+   `git clone https://github.com/surekha0808/conversational-ai-agent-langgraph.git
 2. **Install Dependencies**:
    `pip install -r requirements.txt`
 3. **Set Up Environment**:
